@@ -14,22 +14,22 @@ Someone will say, you will stop developing as soon as you get money, this is not
 - JavaScript (2 years)
 - HTML (2.5 years)
 - CSS (2.5 years)
-- Markdown Language (1 years) <br>
+- Markdown Language (1 year) <br>
 
 **Framework**
-- Bootstrap (6 months) 
-- Redux (6 months) <br>
+- Bootstrap (6 months)
+- React Native (1 year)
+- Redux (1 year)
+- Vue (6 months) <br>
 
 **Libraries/API**
-- jQuery (1 months)
-- React (1 months)
-- react-native (1 months)
-- react-redux (1 months) 
-- Vue (6 month) <br>
+- jQuery (6 months)
+- React (6 months)
+- react-redux (1 year) <br>
 
 **Storage**
-- MySQL
-- Oracle SQL Developer <br>
+- MySQL (6 months)
+- Oracle SQL Developer (1 year) <br>
 
 **Tools**
 - Sublime Text 3 
