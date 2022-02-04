@@ -1,0 +1,1 @@
+https://skvesh.github.io/rsschool-cv/cv
